@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋 I'm HB
+
+[![](https://img.shields.io/badge/Blog-https://hbio.me-green&style=flat)](https://hbio.me)
+
 [![Anurag's GitHub stats](https://github-readme-stats-orpin-xi.vercel.app/api?username=hbsgithub&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
